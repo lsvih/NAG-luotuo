@@ -1,0 +1,6 @@
+torch
+transformers
+icetk
+gradio
+cpm_kernels
+peft
